@@ -86,7 +86,7 @@ h2 { font-size: 2.2rem; }
 	background-size: auto;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 500px;
+	height: auto;
 }
 
 .tm-about-img-container {
