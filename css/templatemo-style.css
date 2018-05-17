@@ -250,7 +250,7 @@ p { line-height: 1.9; }
 
 @media (max-width: 991px){
 
-	.tm-home-img-container {
+	.tm-main-img-container {
 		background:none;
 		height: auto;
 	}
