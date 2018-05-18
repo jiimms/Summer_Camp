@@ -135,7 +135,7 @@ h2 { font-size: 2.2rem; }
 	font-size: 1.4rem;
 	/*max-width: 800px;*/
 	margin: 0 auto 80px;
-	/*text-align: justify;*/
+	text-align: justify;
 }
 
 .tm-content-box {
