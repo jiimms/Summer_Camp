@@ -7,7 +7,7 @@ http://www.templatemo.com/tm-488-Classic
 -----------------------------*/
 
 body {
-	color: #8c8c8c;
+	color: #0f0c0c; /* changed from #8c8c8c to #0f0c0c*/
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	font-weight: 300;
@@ -87,6 +87,7 @@ h2 { font-size: 2.2rem; }
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 500px;
+	opacity: 0.5;
 }
 
 .tm-about-img-container {
@@ -123,7 +124,7 @@ h2 { font-size: 2.2rem; }
 	font-size: 1.4rem;
 	/*max-width: 800px;*/
 	margin: 0 auto 80px;
-	text-align: justify;
+	text-align: left;
 }
 
 .tm-content-box {
