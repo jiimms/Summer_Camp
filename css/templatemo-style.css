@@ -128,7 +128,7 @@ h2 { font-size: 2.2rem; }
 }
 
 .tm-content-box {
-	max-width: 310px;
+	/*max-width: 310px;*/
 	margin: 0 auto;
 }
 
