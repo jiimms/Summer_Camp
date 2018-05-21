@@ -134,7 +134,7 @@ h2 { font-size: 2.2rem; }
 h3 { font-size: 1.65rem; }
 h4 { 
 	font-size: 1.4rem;
-	line-height: 1;/*changed 1.6 to 1*/
+	line-height: 1.6;/*changed 1.6 to */
 }
 
 .tm-btn {
@@ -216,7 +216,7 @@ h4 {
 }
 
 hr { border-top: 1px solid #CCCCCC; }
-p { line-height: 1; } /*changed 1.9 to 1*/
+p { line-height: 1.9; } /*changed 1.9 to */
 
 .tm-gray-bg { 
 	background-color: #CCCCCC; 
@@ -253,7 +253,7 @@ p { line-height: 1; } /*changed 1.9 to 1*/
 	.tm-2-col-left { padding-right: 0; }
 	.tm-2-col-right { padding-left: 0; }
 	.tm-text-link {
-		line-height: 1.4;/*changed 2.2 to 1.4*/
+		line-height: 2;/*changed 2.2 to 2*/
 	}
 	.container-fluid {
 		padding-left: 4%;
