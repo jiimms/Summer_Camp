@@ -269,7 +269,7 @@ p { line-height: 1.5; } /*changed 1.9 to */
 		height: auto;
 	}
 
-	.tm-subtitle { margin-bottom: 40px; }
+	/*.tm-subtitle { margin-bottom: 40px; }*/
 	
 	#tmNavbar .navbar-nav .nav-link { padding: 10px 25px; }
 	.media { max-width: 240px; }
